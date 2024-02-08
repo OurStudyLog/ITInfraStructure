@@ -1,1 +1,40 @@
-# ITInfraStructure
+### About Study
+
+- 주제: IT 인프라
+- 교재: 그림으로 공부하는 IT 인프라 구조
+- 도구: 깃허브, 옵시디언
+- 목표: 교재에 대한 1회독 + 심화 내용 조사하여 공유하기
+- 규칙:
+	1. 깃허브를 통해 공부한 내용을 공유합니다.
+	2. 각자 맡은 파트에 대해 발표와 퀴즈를 준비합니다.
+	3. 주 1회(주말, 인천) 오프라인으로 모입니다.
+
+### About Team
+
+| 김동욱 | 임선혁 | 이지현 | 김용재 |
+| ---- | ---- | ---- | ---- |
+| 스터디장 | 스터디원 | 스터디원 | 스터디원 |
+| [GitHub](https://github.com/atoonatoo) | [GitHub](https://github.com/ImSeon01) | [GitHub](https://github.com/Sleepingoff) | [GitHub](https://github.com/uzjaee) |
+|  |  |  |  |
+
+
+### About Tools
+
+
+- 옵시디언 플러그인
+	- Obsidian Git
+	- Excalidraw
+	- Homepage
+	- Advanced Tables
+
+- 깃허브 기능
+	- Discussion - 준비한 퀴즈 내용, 회의 내용 등을 공유
+	- Repository - 공부한 내용을 기록
+	- Project - 스터디 일정 관리
+
+- 커밋 컨벤션
+	- ADD - 새로운 내용 추가한 경우
+	- UPDATAE - 기존 내용을 수정한 경우
+	- DELETE - 기존 내용을 삭제한 경우
+
+
